@@ -2,7 +2,7 @@ Jekyll website for the tutorial on "Cross-disciplinary insights into Alignment i
 
 - [Jekyll](https://jekyllrb.com/)
 - [Jekyll theme](https://github.com/alshedivat/al-folio)
-- [CMU AMMML](href="https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2023/)
+- [CMU AMMML](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2023/)
 
 #### Local Testing
 
