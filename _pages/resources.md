@@ -30,7 +30,7 @@ description: References and recommended readings
 * Anderson, E. (1995). [Value in ethics and economics](https://www.hup.harvard.edu/books/9780674931909).
 * Williamson, O. (1998). [The Economic Institutions of Capitalism](https://academic.oup.com/ej/article-abstract/98/389/184/5190377).
 * Goodman, A. (1999) [An Economic Theory of the Evolution of the Common Law](https://www.journals.uchicago.edu/doi/abs/10.1086/467600).
-* Hardin, R. (1999). Liberalism, constitutionalism, and democracy.
+* Hardin, R. (1999). [Liberalism, constitutionalism, and democracy](https://global.oup.com/academic/product/liberalism-constitutionalism-and-democracy-9780199261680).
 * Hadfield, G. K. (1999). [A coordination model of the sexual division of labor](https://www.sciencedirect.com/science/article/abs/pii/S0167268199000530). Journal of Economic Behavior & Organization, 40(2), 125-153.
 * Henrich, J., & Gil-White, F. J. (2001). [The evolution of prestige: Freely conferred deference as a mechanism for enhancing the benefits of cultural transmission](https://www.sciencedirect.com/science/article/abs/pii/S1090513800000714). Evolution and human behavior, 22(3), 165-196.
 * Boyd, R., & Richerson, P. J. (2004) [Not by Genes Alone](https://press.uchicago.edu/ucp/books/book/chicago/N/bo3615170.html). University of Chicago press.
