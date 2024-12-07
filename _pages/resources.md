@@ -11,11 +11,13 @@ description: References and recommended readings
 * Arrow, K.J. (1951). [Social Choice and Individual Values](https://en.wikipedia.org/wiki/Social_Choice_and_Individual_Values).
 * Friedman, M. (1953). [The Methodology of Positive Economics](https://press.uchicago.edu/ucp/books/book/chicago/E/bo25773835.html). Essays in Positive Economics/University of Chicago Press.
 * Arrow, K. J., & Debreu, G. (1954). [Existence of an equilibrium for a competitive economy](https://www.math.uchicago.edu/~shmuel/AAT-readings/Econ%20segment/Arrow-DeBreu.pdf). Econometrica: Journal of the Econometric Society, 265-290.
+* Wiener, N. (1960). [Some Moral and Technical Consequences of Automation: As machines learn they may develop unforeseen strategies at rates that baffle their programmers](https://www.science.org/doi/10.1126/science.131.3410.1355). Science, 131(3410), 1355-1358.
 * Coase, R. (1960). [The Problem of Social Cost](https://www.journals.uchicago.edu/doi/10.1086/466560). J. Law & Economics
 * Hart, H. L. A. (1961). [The concept of law](https://en.wikipedia.org/wiki/The_Concept_of_Law).
 * Fuller, L. (1964). [The morality of law](https://philpapers.org/rec/FULTMO-2).
 * Demsetz, H. (1967) [Toward a Theory of Property Rights](https://www.jstor.org/stable/1821637). American Economic Review.
 * Murdock, G. P., & Provost, C. (1973). [Factors in the division of labor by sex: A cross-cultural analysis](https://hraf.yale.edu/ehc/documents/280). Ethnology, 12(2), 203-225.
+* Kerr, S. (1975). [On the folly of rewarding A, while hoping for B](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf). Academy of Management journal, 18(4), 769-783.
 * Cohen, J. (1986). [An epistemic conception of democracy](https://www.jstor.org/stable/2381404). Ethics, 97(1), 26-38.
 * Coleman, J., & Ferejohn, J. (1986). [Democracy and social choice](https://www.researchgate.net/profile/John-Ferejohn/publication/249146888_Democracy_and_Social_Choice/links/53ede7730cf23733e80b15bd/Democracy-and-Social-Choice.pdf). Ethics, 97(1), 6-25.
 * Greenwald, B. C., & Stiglitz, J. E. (1986). [Externalities in Economies with Imperfect Information and Incomplete Markets](https://www.jstor.org/stable/1891114). The Quarterly Journal of Economics, 101(2), 229–264. <https://doi.org/10.2307/1891114>
@@ -26,6 +28,7 @@ description: References and recommended readings
 * North, D. C. (1991). [Institutions](https://www.jstor.org/stable/1942704). The Journal of Economic Perspectives, 5(1), 97–112.
 * Boyd, R., & Richerson, P. J. (1992). [Punishment allows the evolution of cooperation (or anything else) in sizable groups](https://www.des.ucdavis.edu/Faculty/richerson/PunishmentAllowsAnything.pdf). Ethology and sociobiology, 13(3), 171-195.
 * Rawls, J. (1993). [Political Liberalism](https://cup.columbia.edu/book/political-liberalism/9780231130899).
+* Goertzel, T. (1994). [Belief in conspiracy theories](https://www.jstor.org/stable/3791630). Political psychology, 731-742.
 * Boyd, R., & Richerson, P. J. (1995). [Why does culture increase human adaptability?](https://www.des.ucdavis.edu/faculty/richerson/es95.pdf). Ethology and sociobiology, 16(2), 125-143.
 * Anderson, E. (1995). [Value in ethics and economics](https://www.hup.harvard.edu/books/9780674931909).
 * Williamson, O. (1998). [The Economic Institutions of Capitalism](https://academic.oup.com/ej/article-abstract/98/389/184/5190377).
@@ -38,6 +41,7 @@ description: References and recommended readings
 * Lu, H. & Page, S. (2004). [Groups of diverse problem solvers can outperform groups of high-ability problem solvers](https://www.pnas.org/doi/10.1073/pnas.0403723101). PNAS.
 * Cohen, J. (2005). [Deliberation and democratic legitimacy](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203986820-28/deliberation-democratic-legitimacy-joshua-cohen). In Debates in contemporary political philosophy (pp. 352-370). Routledge.
 * Ostrom, E. (2009). [Understanding institutional diversity](https://press.princeton.edu/books/paperback/9780691122380/understanding-institutional-diversity). Princeton university press.
+* Nilsson, N. J. (2009). [The quest for artificial intelligence](https://www.cambridge.org/core/books/quest-for-artificial-intelligence/32C727961B24223BBB1B3511F44F343E). Cambridge University Press.
 * Pinker, S. (2010). [The cognitive niche: Coevolution of intelligence, sociality, and language](https://www.pnas.org/doi/pdf/10.1073/pnas.0914630107). Proceedings of the National Academy of Sciences, 107(supplement_2), 8993-8999.
 * Shepsle, K. A. (2010, November). [The rules of the game: What rules? Which game](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a9d96d465e88ba9e02014e04915fcf927acc255c). In prepared for the Conference on the Legacy and Work of Douglass C. North, St. Louis.
 * Boyd, R., Richerson, P. J., & Henrich, J. (2011). [The cultural niche: Why social learning is essential for human adaptation](https://www.pnas.org/doi/abs/10.1073/pnas.1100290108). Proceedings of the National Academy of Sciences, 108(supplement_2), 10918-10925.
@@ -47,17 +51,25 @@ description: References and recommended readings
 * Hadfield, G. K., & Weingast, B. R. (2012). [What is law? A coordination model of the characteristics of legal order](https://academic.oup.com/jla/article/4/2/471/898579). Journal of Legal Analysis, 4(2), 471-514.
 * Landamore, H. (2013). [Democratic reason: politics, collective intelligence, and the rule of many](https://press.princeton.edu/books/paperback/9780691176390/democratic-reason).
 * Wilson, D. S., Ostrom, E., & Cox, M. E. (2013). [Generalizing the core design principles for the efficacy of groups](https://www.sciencedirect.com/science/article/abs/pii/S0167268112002697). Journal of economic behavior & organization, 90, S21-S32.
+* Bostrom, N. (2014). [Superintelligence: Paths, dangers, strategies](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies). Oxford University Press.
 * Henrich, J. (2016). [The secret of our success: How culture is driving human evolution, domesticating our species, and making us smarter](https://press.princeton.edu/books/paperback/9780691178431/the-secret-of-our-success). Princeton University press.
+* Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). [Concrete problems in AI safety](https://www.datascienceassn.org/sites/default/files/Concrete%20Problems%20in%20AI%20Safety.pdf). arXiv preprint arXiv:1606.06565.
 * Muthukrishna, M., & Henrich, J. (2016). [Innovation in the collective brain](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0192). Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1690), 20150192.
 * Hadfield-Menell, D., & Hadfield, G. K. (2019). [Incomplete contracting and AI alignment](https://dl.acm.org/doi/pdf/10.1145/3306618.3314250). In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 417-422).
+* Russell, S. (2019). [Human compatible: AI and the problem of control](https://en.wikipedia.org/wiki/Human_Compatible). Penguin Uk.
 * Gabriel, I. (2020). [Artificial intelligence, values, and alignment](https://link.springer.com/content/pdf/10.1007/s11023-020-09539-2.pdf). Minds and machines, 30(3), 411-437.
+* Stiennon, N., Ouyang, L., Wu, J., Ziegler, D., Lowe, R., Voss, C., ... & Christiano, P. F. (2020). [Learning to summarize with human feedback](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf). Advances in Neural Information Processing Systems, 33, 3008-3021.
+* Zhuang, S., & Hadfield-Menell, D. (2020). [Consequences of misaligned AI](https://proceedings.neurips.cc/paper/2020/file/b607ba543ad05417b8507ee86c54fcb7-Paper.pdf). Advances in Neural Information Processing Systems, 33, 15763-15773.
 * Boyd, R., & Mathew, S. (2021). [Arbitration supports reciprocity when there are frequent perception errors](https://asu.elsevierpure.com/en/publications/arbitration-supports-reciprocity-when-there-are-frequent-percepti). Nature Human Behaviour, 5(5), 596-603.
+* Mullainathan, S., & Obermeyer, Z. (2021, May). [On the inequity of predicting A while hoping for B](https://ziadobermeyer.com/wp-content/uploads/2021/08/Predicting-A-While-Hoping-for-B.pdf). In AEA Papers and Proceedings (Vol. 111, pp. 37-42). 2014 Broadway, Suite 305, Nashville, TN 37203: American Economic Association.
 * Jagiello, R., Heyes, C., & Whitehouse, H. (2022). [Tradition and invention: The bifocal stance theory of cultural evolution](https://users.ox.ac.uk/~ascch/Celia's%20pdfs/Jagiello,%20Heyes%20&%20Whitehouse%202022.pdf). Behavioral and Brain Sciences, 45, e249.
 * Duéñez-Guzmán, E. A., Sadedin, S., Wang, J. X., McKee, K. R., & Leibo, J. Z. (2023). [A social path to human-like artificial intelligence](https://arxiv.org/abs/2405.15815). Nature Machine Intelligence, 5(11), 1181-1188.
+* Knox, W. B., Allievi, A., Banzhaf, H., Schmitt, F., & Stone, P. (2023). [Reward (mis) design for autonomous driving](https://arxiv.org/abs/2104.13906). Artificial Intelligence, 316, 103829.
 * Sorensen, T., Moore, J., Fisher, J., Gordon, M., Mireshghallah, N., Rytting, C. M., ... & Choi, Y. (2024). [A roadmap to pluralistic alignment](https://arxiv.org/abs/2402.05070). arXiv preprint arXiv:2402.05070.
 * Weidinger, L., McKee, K. R., Everett, R., Huang, S., Zhu, T. O., Chadwick, M. J., ... & Gabriel, I. (2023). [Using the Veil of Ignorance to align AI systems with principles of justice](https://pubmed.ncbi.nlm.nih.gov/37094137/). Proceedings of the National Academy of Sciences, 120(18), e2213709120.
 * Heyes, C. (2024). [Rethinking norm psychology](https://journals.sagepub.com/doi/full/10.1177/17456916221112075). Perspectives on Psychological Science, 19(1), 12-38.
 * Zhi-Xuan, T., Carroll, M., Franklin, M., & Ashton, H. (2024). [Beyond Preferences in AI Alignment](https://link.springer.com/content/pdf/10.1007/s11098-024-02249-w.pdf). Philosophical Studies, 1-51.
+* Williams, M., Carroll, M., Narang, A., Weisser, C., Murphy, B., & Dragan, A. (2024). [Targeted Manipulation and Deception Emerge when Optimizing LLMs for User Feedback](https://arxiv.org/pdf/2411.02306?). arXiv preprint arXiv:2411.02306.
 
 <!-- Section A References: -->
 <!-- *** -->
