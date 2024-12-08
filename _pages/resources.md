@@ -91,6 +91,9 @@ description: References and recommended readings
 * Zhi-Xuan, T., Carroll, M., Franklin, M., & Ashton, H. (2024). [Beyond Preferences in AI Alignment](https://link.springer.com/content/pdf/10.1007/s11098-024-02249-w.pdf). Philosophical Studies, 1-51.
 * Barfuss, W., Flack, J., Gokhale, C. S., Hammond, L., Hilbe, C., Hughes, E., Leibo, J. Z., Lenearts, T., Leonard, N., Levin, S., Madhushani, U., McAvoy, A., Meylahn, J. M., & Santos, F. P. (in press). Collective cooperative intelligence. [Proceedings of the National Academy of Sciences of the United States of America](https://wbarfuss.github.io/collective-cooperative-intelligence/Supplementary-Information-for-Collective-Cooperative-Intelligence.pdf).
 * Williams, M., Carroll, M., Narang, A., Weisser, C., Murphy, B., & Dragan, A. (2024). [Targeted Manipulation and Deception Emerge when Optimizing LLMs for User Feedback](https://arxiv.org/pdf/2411.02306?). arXiv preprint arXiv:2411.02306.
+* Huang, S., Siddarth, D., Lovitt, L., Liao, T. I., Durmus, E., Tamkin, A., & Ganguli, D. (2024, June). [Collective Constitutional AI: Aligning a Language Model with Public Input](https://dl.acm.org/doi/pdf/10.1145/3630106.3658979). In The 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1395-1417).
+* Bergman, S., Marchal, N., Mellor, J., Mohamed, S., Gabriel, I., & Isaac, W. (2024). [STELA: a community-centred approach to norm elicitation for AI alignment](https://www.nature.com/articles/s41598-024-56648-4.pdf). Scientific Reports, 14(1), 6616.
+* Feng, S., Sorensen, T., Liu, Y., Fisher, J., Park, C. Y., Choi, Y., & Tsvetkov, Y. (2024). [Modular pluralism: Pluralistic alignment via multi-llm collaboration](https://arxiv.org/abs/2406.15951). arXiv preprint arXiv:2406.15951.
 
 <!-- Section A References: -->
 <!-- *** -->
