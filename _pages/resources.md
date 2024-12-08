@@ -7,8 +7,11 @@ description: References and recommended readings
 
 
 <!-- References: -->
-
+* Smith, A. (1776). [An inquiry into the nature and causes of the wealth of nations](https://en.wikipedia.org/wiki/The_Wealth_of_Nations).
+* Pareto, V. (1906). [Manual of political economy](https://global.oup.com/academic/product/manual-of-political-economy-9780198867661?cc=ca&lang=en&).
+* Robbins, L. (1932). [An essay on the nature and significance of economic science](https://en.wikipedia.org/wiki/An_Essay_on_the_Nature_and_Significance_of_Economic_Science).
 * Arrow, K.J. (1951). [Social Choice and Individual Values](https://en.wikipedia.org/wiki/Social_Choice_and_Individual_Values).
+* Arrow, K. J. (1951, January). [An extension of the basic theorems of classical welfare economics](https://digitalassets.lib.berkeley.edu/math/ucb/text/math_s2_article-37.pdf). In Proceedings of the second Berkeley symposium on mathematical statistics and probability (Vol. 2, pp. 507-533). University of California Press.
 * Friedman, M. (1953). [The Methodology of Positive Economics](https://press.uchicago.edu/ucp/books/book/chicago/E/bo25773835.html). Essays in Positive Economics/University of Chicago Press.
 * Arrow, K. J., & Debreu, G. (1954). [Existence of an equilibrium for a competitive economy](https://www.math.uchicago.edu/~shmuel/AAT-readings/Econ%20segment/Arrow-DeBreu.pdf). Econometrica: Journal of the Econometric Society, 265-290.
 * Wiener, N. (1960). [Some Moral and Technical Consequences of Automation: As machines learn they may develop unforeseen strategies at rates that baffle their programmers](https://www.science.org/doi/10.1126/science.131.3410.1355). Science, 131(3410), 1355-1358.
@@ -20,17 +23,19 @@ description: References and recommended readings
 * Kerr, S. (1975). [On the folly of rewarding A, while hoping for B](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf). Academy of Management journal, 18(4), 769-783.
 * Cohen, J. (1986). [An epistemic conception of democracy](https://www.jstor.org/stable/2381404). Ethics, 97(1), 26-38.
 * Coleman, J., & Ferejohn, J. (1986). [Democracy and social choice](https://www.researchgate.net/profile/John-Ferejohn/publication/249146888_Democracy_and_Social_Choice/links/53ede7730cf23733e80b15bd/Democracy-and-Social-Choice.pdf). Ethics, 97(1), 6-25.
-* Greenwald, B. C., & Stiglitz, J. E. (1986). [Externalities in Economies with Imperfect Information and Incomplete Markets](https://www.jstor.org/stable/1891114). The Quarterly Journal of Economics, 101(2), 229–264. <https://doi.org/10.2307/1891114>
+* Greenwald, B. C., & Stiglitz, J. E. (1986). [Externalities in Economies with Imperfect Information and Incomplete Markets](https://www.jstor.org/stable/1891114). The Quarterly Journal of Economics, 101(2), 229–264.
 * Tooby J. & DeVore, I. (1987). [The reconstruction of hominid behavioral evolution through strategic modeling](https://www.cep.ucsb.edu/wp-content/uploads/2023/05/Reconst.pdf). In: Primate Models of Hominid Behavior, W. (pp. 183-237). (Ed.) New York: SUNY Press.
 * Myerson, R. (1989) [Mechanism design](https://link.springer.com/chapter/10.1007/978-1-349-20215-7_20). In Eatwell, J. Milgate, Newman, P. Allocation, Information and Markets.
 * Hart, O. (1989). [Incomplete contracts](https://link.springer.com/chapter/10.1007/978-1-349-20215-7_17). In Eatwell, J. Milgate, Newman, P. Allocation, Information and Markets.
 * Ostrom, E. (1990). [Governing the commons: The evolution of institutions for collective action](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1848&context=nrj). Cambridge university press.
 * North, D. C. (1991). [Institutions](https://www.jstor.org/stable/1942704). The Journal of Economic Perspectives, 5(1), 97–112.
+* Douglass, C. (1992). [Institutions, Ideology, and Economic Performance](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/1992/1/cj11n3-11.pdf). Cato Journal, 11(3), 477-496.
 * Boyd, R., & Richerson, P. J. (1992). [Punishment allows the evolution of cooperation (or anything else) in sizable groups](https://www.des.ucdavis.edu/Faculty/richerson/PunishmentAllowsAnything.pdf). Ethology and sociobiology, 13(3), 171-195.
 * Rawls, J. (1993). [Political Liberalism](https://cup.columbia.edu/book/political-liberalism/9780231130899).
 * Goertzel, T. (1994). [Belief in conspiracy theories](https://www.jstor.org/stable/3791630). Political psychology, 731-742.
 * Boyd, R., & Richerson, P. J. (1995). [Why does culture increase human adaptability?](https://www.des.ucdavis.edu/faculty/richerson/es95.pdf). Ethology and sociobiology, 16(2), 125-143.
 * Anderson, E. (1995). [Value in ethics and economics](https://www.hup.harvard.edu/books/9780674931909).
+* Smith, J. M., & Szathmary, E. (1997). [The major transitions in evolution](https://global.oup.com/academic/product/the-major-transitions-in-evolution-9780198502944). OUP Oxford.
 * Williamson, O. (1998). [The Economic Institutions of Capitalism](https://academic.oup.com/ej/article-abstract/98/389/184/5190377).
 * Goodman, A. (1999) [An Economic Theory of the Evolution of the Common Law](https://www.journals.uchicago.edu/doi/abs/10.1086/467600).
 * Hardin, R. (1999). [Liberalism, constitutionalism, and democracy](https://global.oup.com/academic/product/liberalism-constitutionalism-and-democracy-9780199261680).
@@ -39,6 +44,7 @@ description: References and recommended readings
 * Boyd, R., & Richerson, P. J. (2004) [Not by Genes Alone](https://press.uchicago.edu/ucp/books/book/chicago/N/bo3615170.html). University of Chicago press.
 * Henrich, J. (2004). [Cultural group selection, coevolutionary processes and large-scale cooperation](https://scholar.harvard.edu/files/henrich/files/henrich_2004.pdf). Journal of Economic Behavior & Organization, 53(1), 3-35.
 * Lu, H. & Page, S. (2004). [Groups of diverse problem solvers can outperform groups of high-ability problem solvers](https://www.pnas.org/doi/10.1073/pnas.0403723101). PNAS.
+* Acemoglu, D. (2005). [Institutions as the Fundamental Cause of Long-Run Growth. Handbook of Economics Growth](https://economics.mit.edu/sites/default/files/publications/institutions-as-the-fundamental-cause-of-long-run-.pdf).
 * Cohen, J. (2005). [Deliberation and democratic legitimacy](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203986820-28/deliberation-democratic-legitimacy-joshua-cohen). In Debates in contemporary political philosophy (pp. 352-370). Routledge.
 * Ostrom, E. (2009). [Understanding institutional diversity](https://press.princeton.edu/books/paperback/9780691122380/understanding-institutional-diversity). Princeton university press.
 * Nilsson, N. J. (2009). [The quest for artificial intelligence](https://www.cambridge.org/core/books/quest-for-artificial-intelligence/32C727961B24223BBB1B3511F44F343E). Cambridge University Press.
@@ -52,6 +58,8 @@ description: References and recommended readings
 * Landamore, H. (2013). [Democratic reason: politics, collective intelligence, and the rule of many](https://press.princeton.edu/books/paperback/9780691176390/democratic-reason).
 * Wilson, D. S., Ostrom, E., & Cox, M. E. (2013). [Generalizing the core design principles for the efficacy of groups](https://www.sciencedirect.com/science/article/abs/pii/S0167268112002697). Journal of economic behavior & organization, 90, S21-S32.
 * Bostrom, N. (2014). [Superintelligence: Paths, dangers, strategies](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies). Oxford University Press.
+* West, S. A., Fisher, R. M., Gardner, A., & Kiers, E. T. (2015). [Major evolutionary transitions in individuality](https://www.pnas.org/doi/pdf/10.1073/pnas.1421402112). Proceedings of the National Academy of Sciences, 112(33), 10112-10119.
+* Szathmáry, E. (2015). [Toward major evolutionary transitions theory 2.0](https://www.pnas.org/doi/pdf/10.1073/pnas.1421398112). Proceedings of the National Academy of Sciences, 112(33), 10104-10111.
 * Henrich, J. (2016). [The secret of our success: How culture is driving human evolution, domesticating our species, and making us smarter](https://press.princeton.edu/books/paperback/9780691178431/the-secret-of-our-success). Princeton University press.
 * Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). [Concrete problems in AI safety](https://www.datascienceassn.org/sites/default/files/Concrete%20Problems%20in%20AI%20Safety.pdf). arXiv preprint arXiv:1606.06565.
 * Muthukrishna, M., & Henrich, J. (2016). [Innovation in the collective brain](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0192). Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1690), 20150192.
