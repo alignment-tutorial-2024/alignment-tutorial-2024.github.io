@@ -45,6 +45,7 @@ description: References and recommended readings
 * Hadfield, G. K. (1999). [A coordination model of the sexual division of labor](https://www.sciencedirect.com/science/article/abs/pii/S0167268199000530). Journal of Economic Behavior & Organization, 40(2), 125-153.
 * Henrich, J., & Gil-White, F. J. (2001). [The evolution of prestige: Freely conferred deference as a mechanism for enhancing the benefits of cultural transmission](https://www.sciencedirect.com/science/article/abs/pii/S1090513800000714). Evolution and human behavior, 22(3), 165-196.
 * Macy, M. W., & Flache, A. (2002). [Learning dynamics in social dilemmas](https://www.pnas.org/doi/pdf/10.1073/pnas.092080099). Proceedings of the National Academy of Sciences, 99(suppl_3), 7229-7236.
+*Acheson, J.M., 2003. [Capturing the commons: devising institutions to manage the Maine lobster industry](https://digitalcommons.library.umaine.edu/fac_monographs/150/). Upne.
 * Acheson, J. M., & Gardner, R. J. (2005). [Spatial strategies and territoriality in the Maine lobster industry](https://ideas.repec.org/a/sae/ratsoc/v17y2005i3p309-341.html). Rationality and society, 17(3), 309-341.
 * Boyd, R., & Richerson, P. J. (2004) [Not by Genes Alone](https://press.uchicago.edu/ucp/books/book/chicago/N/bo3615170.html). University of Chicago press.
 * Henrich, J. (2004). [Cultural group selection, coevolutionary processes and large-scale cooperation](https://scholar.harvard.edu/files/henrich/files/henrich_2004.pdf). Journal of Economic Behavior & Organization, 53(1), 3-35.
@@ -75,6 +76,7 @@ description: References and recommended readings
 * Muthukrishna, M., & Henrich, J. (2016). [Innovation in the collective brain](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0192). Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1690), 20150192.
 * OpenAI. (2016). [Faulty reward functions in the wild](https://openai.com/index/faulty-reward-functions/).
 * Baggio, J. A., Barnett, A. J., Perez-Ibara, I., Brady, U., Ratajczyk, E., Rollins, N., ... & Janssen, M. A. (2016). [Explaining success and failure in the commons: the configural nature of Ostrom’s institutional design principles](https://thecommonsjournal.org/articles/10.18352/ijc.634). International Journal of the Commons, 10(2), 417-439.
+* Leibo, J.Z., Zambaldi, V., Lanctot, M., Marecki, J. and Graepel, T., 2017, May. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). In Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems (pp. 464-473).
 * Perolat, J., Leibo, J. Z., Zambaldi, V., Beattie, C., Tuyls, K., & Graepel, T. (2017). [A multi-agent reinforcement learning model of common-pool resource appropriation](https://proceedings.neurips.cc/paper_files/paper/2017/file/2b0f658cbffd284984fb11d90254081f-Paper.pdf). Advances in neural information processing systems, 30.
 * Hadfield-Menell, D., & Hadfield, G. K. (2019). [Incomplete contracting and AI alignment](https://dl.acm.org/doi/pdf/10.1145/3306618.3314250). In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 417-422).
 * Russell, S. (2019). [Human compatible: AI and the problem of control](https://en.wikipedia.org/wiki/Human_Compatible). Penguin Uk.
@@ -96,6 +98,7 @@ description: References and recommended readings
 * Huang, S., Siddarth, D., Lovitt, L., Liao, T. I., Durmus, E., Tamkin, A., & Ganguli, D. (2024, June). [Collective Constitutional AI: Aligning a Language Model with Public Input](https://dl.acm.org/doi/pdf/10.1145/3630106.3658979). In The 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1395-1417).
 * Bergman, S., Marchal, N., Mellor, J., Mohamed, S., Gabriel, I., & Isaac, W. (2024). [STELA: a community-centred approach to norm elicitation for AI alignment](https://www.nature.com/articles/s41598-024-56648-4.pdf). Scientific Reports, 14(1), 6616.
 * Feng, S., Sorensen, T., Liu, Y., Fisher, J., Park, C. Y., Choi, Y., & Tsvetkov, Y. (2024). [Modular pluralism: Pluralistic alignment via multi-llm collaboration](https://arxiv.org/abs/2406.15951). arXiv preprint arXiv:2406.15951.
+* Hertz, U., Köster, R., Janssen, M.A. and Leibo, J.Z., 2025. [Beyond the matrix: Experimental approaches to studying cognitive agents in social-ecological systems](https://www.sciencedirect.com/science/article/abs/pii/S0010027724002798). Cognition, 254, p.105993.
 
 <!-- Section A References: -->
 <!-- *** -->
