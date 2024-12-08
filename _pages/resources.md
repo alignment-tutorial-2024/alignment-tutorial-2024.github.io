@@ -98,7 +98,7 @@ description: References and recommended readings
 * Huang, S., Siddarth, D., Lovitt, L., Liao, T. I., Durmus, E., Tamkin, A., & Ganguli, D. (2024, June). [Collective Constitutional AI: Aligning a Language Model with Public Input](https://dl.acm.org/doi/pdf/10.1145/3630106.3658979). In The 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1395-1417).
 * Bergman, S., Marchal, N., Mellor, J., Mohamed, S., Gabriel, I., & Isaac, W. (2024). [STELA: a community-centred approach to norm elicitation for AI alignment](https://www.nature.com/articles/s41598-024-56648-4.pdf). Scientific Reports, 14(1), 6616.
 * Feng, S., Sorensen, T., Liu, Y., Fisher, J., Park, C. Y., Choi, Y., & Tsvetkov, Y. (2024). [Modular pluralism: Pluralistic alignment via multi-llm collaboration](https://arxiv.org/abs/2406.15951). arXiv preprint arXiv:2406.15951.
-* Hertz, U., Köster, R., Janssen, M.A. and Leibo, J.Z., 2025. [Beyond the matrix: Experimental approaches to studying cognitive agents in social-ecological systems](https://www.sciencedirect.com/science/article/abs/pii/S0010027724002798). Cognition, 254, p.105993.
+* Hertz, U., Köster, R., Janssen, M.A. and Leibo, J.Z. (2025). [Beyond the matrix: Experimental approaches to studying cognitive agents in social-ecological systems](https://www.sciencedirect.com/science/article/abs/pii/S0010027724002798). Cognition, 254, p.105993.
 
 <!-- Section A References: -->
 <!-- *** -->
