@@ -16,6 +16,8 @@ Yes, the tutorial materials slides and videos will be made available on this web
 
 ### Q: How can I ask questions during the tutorial?
 
-You can use the official NeurIPS 2024 tutorial app for submitting the questions. You can also submit questions through our online form [linked here](https://docs.google.com/forms/d/e/1FAIpQLSeUoLV-OZAWj_jYJ9sfxLNeNgjpV_K6Z0boOUqCFd6DYQwsUA/viewform?embedded=true) or via the comments below.
+You can use the chat feature on [NeurIPS website](https://neurips.cc/virtual/2024/tutorial/99529) or the [Whova app](https://whova.com/portal/1E3CIGgi9zq0QZtk@dlxwrI4JH7teAc1cj1cVhwS7jc) for submitting the questions.
+
+You can also submit questions through our online form [linked here](https://docs.google.com/forms/d/e/1FAIpQLSeUoLV-OZAWj_jYJ9sfxLNeNgjpV_K6Z0boOUqCFd6DYQwsUA/viewform?embedded=true) or via the comments below.
 
 ***
