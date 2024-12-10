@@ -38,6 +38,7 @@ description: References and recommended readings
 * Boyd, R., & Richerson, P. J. (1992). [Punishment allows the evolution of cooperation (or anything else) in sizable groups](https://www.des.ucdavis.edu/Faculty/richerson/PunishmentAllowsAnything.pdf). Ethology and sociobiology, 13(3), 171-195.
 * Douglass, C. (1992). [Institutions, Ideology, and Economic Performance](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/1992/1/cj11n3-11.pdf). Cato Journal, 11(3), 477-496.
 * González-Ruibal, A., Hernando, A., & Politis, G. (2011). [Ontology of the self and material culture: Arrow-making among the Awá hunter–gatherers (Brazil)](https://ri.conicet.gov.ar/bitstream/handle/11336/33549/CONICET_Digital_Nro.16490.pdf?sequence=1&isAllowed=y). Journal of anthropological archaeology, 30(1), 1-16.
+* Hadfield, G. K. (2016). [Rules for a Flat World](https://global.oup.com/academic/product/rules-for-a-flat-world-9780199916528?cc=ca&lang=en&). Oxford University Press.
 * Hadfield, G. K., & Weingast, B. R. (2012). [What is law? A coordination model of the characteristics of legal order](https://academic.oup.com/jla/article/4/2/471/898579). Journal of Legal Analysis, 4(2), 471-514.
 * Hadfield, G. K., & Weingast, B. R. (2014). [Microfoundations of the Rule of Law](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-100711-135226). Annual Review of Political Science, 17(1), 21-42.
 * Hadfield-Menell, D., & Hadfield, G. K. (2019). [Incomplete contracting and AI alignment](https://dl.acm.org/doi/pdf/10.1145/3306618.3314250). In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 417-422).
@@ -45,6 +46,7 @@ description: References and recommended readings
 * Tooby J. & DeVore, I. (1987). [The reconstruction of hominid behavioral evolution through strategic modeling](https://www.cep.ucsb.edu/wp-content/uploads/2023/05/Reconst.pdf). In: Primate Models of Hominid Behavior, W. (pp. 183-237). (Ed.) New York: SUNY Press.
 * Murdock, G. P., & Provost, C. (1973). [Factors in the division of labor by sex: A cross-cultural analysis](https://hraf.yale.edu/ehc/documents/280). Ethnology, 12(2), 203-225.
 * North, D. C. (1991). [Institutions](https://www.jstor.org/stable/1942704). The Journal of Economic Perspectives, 5(1), 97–112.
+* OpenAI. (2023). [Democratic inputs to AI](https://openai.com/index/democratic-inputs-to-ai).
 * Pareto, V. (1906). [Manual of political economy](https://global.oup.com/academic/product/manual-of-political-economy-9780198867661?cc=ca&lang=en&).
 * Pinker, S. (2010). [The cognitive niche: Coevolution of intelligence, sociality, and language](https://www.pnas.org/doi/pdf/10.1073/pnas.0914630107). Proceedings of the National Academy of Sciences, 107(supplement_2), 8993-8999.
 * Rawls, J. (1993). [Political Liberalism](https://cup.columbia.edu/book/political-liberalism/9780231130899).
