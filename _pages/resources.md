@@ -66,6 +66,7 @@ description: References and recommended readings
 * Binmore, K. (2007). [Making decisions in large worlds](https://discovery.ucl.ac.uk/id/eprint/14433/1/14433.pdf).
 * Cox, M., Arnold, G., & Tomás, S. V. (2010). [A review of design principles for community-based natural resource management](https://www.jstor.org/stable/26268233). Ecology and Society, 15(4).
 * Hertz, U., Köster, R., Janssen, M.A. and Leibo, J.Z. (2025). [Beyond the matrix: Experimental approaches to studying cognitive agents in social-ecological systems](https://www.sciencedirect.com/science/article/abs/pii/S0010027724002798). Cognition, 254, p.105993.
+* Huang, S., & Siddarth, D. (2023). [Generative AI and the digital commons](https://arxiv.org/abs/2303.11074). arXiv preprint arXiv:2303.11074.
 * Janssen, M. A., Holahan, R., Lee, A., & Ostrom, E. (2010). [Lab experiments for the study of social-ecological systems](https://www.science.org/doi/10.1126/science.1183532). Science, 328(5978), 613-617.
 * Leibo, J.Z., Zambaldi, V., Lanctot, M., Marecki, J. and Graepel, T., 2017, May. [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/1702.03037). In Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems (pp. 464-473).
 * Macy, M. W., & Flache, A. (2002). [Learning dynamics in social dilemmas](https://www.pnas.org/doi/pdf/10.1073/pnas.092080099). Proceedings of the National Academy of Sciences, 99(suppl_3), 7229-7236.
