@@ -29,6 +29,13 @@ title: Opportunities
   margin-top: 0;
   color: #666;
 }
+
+.highlight-link {
+  background-color: #fff3cd;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  border: 1px solid #dc3545;
+}
 </style>
 
 <!-- ###  -->
@@ -41,7 +48,7 @@ Interested in working with us on these important problems? We are hiring for a w
     <h4>Johns Hopkins University: Whiting School of Engineering: Department of Computer Science</h4>
     <ul>
       <li><strong>Supervisor:</strong> <a href="https://gillianhadfield.org/">Prof. Gillian Hadfield</a></li>
-      <li><strong>Application:</strong> Please find more details about this position and the application instructions over <a href="https://apply.interfolio.com/159343" target="_blank">here</a>.</li>
+      <li><strong>Application:</strong> Please find more details about this position and the application instructions <a href="https://apply.interfolio.com/159343" target="_blank" class="highlight-link">here</a>.</li>
     </ul>
   </div>
 
@@ -49,9 +56,9 @@ Interested in working with us on these important problems? We are hiring for a w
     <h3>PhD Student</h3>
     <h4>Johns Hopkins University: Whiting School of Engineering: Department of Computer Science</h4>
     <ul>
-      <li><strong>Supervisor:</strong> <a href="https://gillianhadfield.org/">Prof.Gillian Hadfield</a></li>
+      <li><strong>Supervisor:</strong> <a href="https://gillianhadfield.org/">Prof. Gillian Hadfield</a></li>
       <li><strong>Deadline:</strong> <strong>December 15, 2024</strong></li>
-      <li><strong>Application:</strong> Please apply directly to the PhD program on the <a href="https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-program-admissions/#:~:text=Application%20Deadlines&text=The%20deadline%20for%20fall%20is,on%20or%20around%20August%2015." target="_blank">department website</a> and indicate Prof Gillian Hadfield as your potential supervisor.</li>
+      <li><strong>Application:</strong> Please apply directly to the PhD program on the <a href="https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-program-admissions/#:~:text=Application%20Deadlines&text=The%20deadline%20for%20fall%20is,on%20or%20around%20August%2015." target="_blank" class="highlight-link">department website</a> and indicate Prof Gillian Hadfield as your potential supervisor.</li>
     </ul>
   </div>
 </div>
